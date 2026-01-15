@@ -1,0 +1,10 @@
+# Docker runtime junk
+*.log
+
+# Hadoop runtime data (should never exist here, but just in case)
+hadoopdata/
+tmp/
+logs/
+
+# OS junk
+.DS_Store
