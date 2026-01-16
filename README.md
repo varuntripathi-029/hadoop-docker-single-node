@@ -118,21 +118,3 @@ docker rmi hadoop-single-node
 
 
 ---
-
-# 🧠 Mentor verdict (direct)
-
-- File size + line count = **objective verification**
-- README focuses on **how to run**, not theory
-- Repo is now **auditable**, not just runnable
-
-If someone clones this and can’t run Hadoop in 2 commands — **that’s on you**.  
-Right now, they can.
-
----
-
-### Next options (pick one)
-- “Help me polish this README for resume impact”
-- “Proceed to Docker Compose multi-container Hadoop”
-- “Proceed to HBase on this Dockerized HDFS”
-
-Choose.
